@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/rtabmap_mapping.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/mapping.png
+Name=rtabmap_mapping
+Name[en_US]=rtabmap_mapping.desktop

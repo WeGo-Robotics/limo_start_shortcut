@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/limo_bringup_with_tf.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/robot.png
+Name=limo_bringup_with_tf
+Name[en_US]=limo_bringup_with_tf.desktop
