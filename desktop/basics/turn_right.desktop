@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/turn_right.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/turn_right.png
+Name=turn_right
+Name[en_US]=turn_right.desktop

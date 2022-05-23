@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/move_straight.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/go_straight.png
+Name=move_straight
+Name[en_US]=move_straight.desktop
