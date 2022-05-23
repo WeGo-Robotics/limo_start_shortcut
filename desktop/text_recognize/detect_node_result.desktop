@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/detect_node_result.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/detect_word_result.png
+Name=detect_node_result
+Name[en_US]=detect_node_result.desktop
