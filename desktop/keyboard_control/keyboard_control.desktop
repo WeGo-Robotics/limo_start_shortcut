@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=true
+TerminalOptions=bash
+Exec=bash -c -i "/home/agilex/limo_start_shortcut/bashes/keyboard_control.sh"
+Icon=/home/agilex/limo_start_shortcut/icons/keyboard_control.png
+Name=keyboard_control
+Name[en_US]=keyboard_control.desktop

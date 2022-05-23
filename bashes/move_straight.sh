@@ -1,11 +1,12 @@
 #!/bin/bash
+echo ""
 echo "============================================"
 echo "============================================"
 echo "          LIMO Go Straight 0.2 m/s          "
 echo "============================================"
 echo "============================================"
 
-sleep 2
+sleep 1
 
 source /opt/ros/melodic/setup.bash
 source /home/agilex/agilex_ws/devel/setup.bash

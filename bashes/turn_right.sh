@@ -1,11 +1,12 @@
 #!/bin/bash
+echo ""
 echo "============================================"
 echo "============================================"
 echo "          LIMO Turn Right 1.0 rad/s          "
 echo "============================================"
 echo "============================================"
 
-sleep 2
+sleep 1
 
 source /opt/ros/melodic/setup.bash
 source /home/agilex/agilex_ws/devel/setup.bash
